@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212c78b3-de7e-4e43-88b0-bcaa387e8183" name="Changes" comment="백준-11720번">
-      <change afterPath="$PROJECT_DIR$/src/백준/정렬/baekjoon_10817.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="212c78b3-de7e-4e43-88b0-bcaa387e8183" name="Changes" comment="백준-11720번" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USER/Desktop/java/java_practice",
+    "last_opened_file_path": "C:/Users/USER/Desktop/java/java_practice/study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +69,7 @@
       <updated>1706017142414</updated>
       <workItem from="1706017143465" duration="2300000" />
       <workItem from="1706021000269" duration="38000" />
+      <workItem from="1706278820894" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="백준-11720번">
       <created>1706017722137</created>
